@@ -1,3 +1,6 @@
 [submodule "avaj-launcher"]
 	path = avaj-launcher
 	url = https://github.com/Two-Jay/42_avaj-launcher
+[submodule "Python_module_00"]
+	path = Python_module_00
+	url = https://github.com/Two-Jay/Python_module_00.git
