@@ -4,3 +4,12 @@
 [submodule "Python_module_00"]
 	path = Python_module_00
 	url = https://github.com/Two-Jay/Python_module_00.git
+[submodule "Python_module_01"]
+	path = Python_module_01
+	url = https://github.com/Two-Jay/Python_module_01
+[submodule "Python_module_02"]
+	path = Python_module_02
+	url = https://github.com/Two-Jay/Python_module_02.git
+[submodule "Python_module_03"]
+	path = Python_module_03
+	url = https://github.com/Two-Jay/Python_module_03.git
